@@ -1,0 +1,24 @@
+#welcome img{
+    bottom: 0;
+    width: 1500px;
+    height: 500px;
+}
+#myNavbar a{
+    color: rgb(137, 235, 146);
+
+}
+.travelmainDiv{
+    border: 1px solid lightgrey;
+}
+.travelmainDiv img{
+    width: 100%;
+}
+.travelmainDiv h5{
+    margin: 20px;
+}
+ 
+
+
+
+
+
